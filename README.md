@@ -17,7 +17,7 @@
 <img width="423" alt="image" src="https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/16210d51-3025-4e7f-b164-5d56894de04a">
 <img width="423" alt="image" src="https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/c39def79-2470-47e9-9b66-b556ee4f07e3">
 
-<p> My laptop (M1 Series Chip)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; My colleague's Intel Laptop</p>
+<p> My laptop (Apple M1 Series Chip)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;My colleague's Intel Laptop</p>
 
 
 
