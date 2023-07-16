@@ -1,4 +1,4 @@
-# Social Distancing Project Using Computer Vision and Deep Learning
+<img width="423" alt="image" src="https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/12e9dee9-2ce7-4d2d-8f66-4353163c0c0b"># Social Distancing Project Using Computer Vision and Deep Learning
 
 ## Implementing Social Distancing using a pre-trained YOLO v8 Model:
 1.	Load the YOLO v8 pre-trained model. There are many pre-trained YOLO v8 models available, so you can choose one that is appropriate for your needs.
@@ -12,7 +12,13 @@
 5.	Optional: Set the Distance Threshold as a function of the average human heights extracted from the bounding boxes.
 
 6.	Now, the centroids and bounding boxes can be visualized along with lines that show the pairs of people violating the social distancing threshold.
-7.	
+
+### Regular Yolo v8 Output Screenshots
+<img width="423" alt="image" src="https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/16210d51-3025-4e7f-b164-5d56894de04a">
+![image](https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/c39def79-2470-47e9-9b66-b556ee4f07e3)
+
+
+
 
 ## Optimizing the above model using the OpenVINO toolkit :
 1.	Install the OpenVINO toolkit. You can download the OpenVINO toolkit from the Intel website: https://software.intel.com/en-us/openvino-toolkit.
@@ -26,6 +32,14 @@
 5.	Compare the outputs of the Models and Deploy a model that’s apt for the deployment environment and customer requirements.
 
 6.	Benchmark the Performance of the YOLO v8 model and OpenVINO Optimized Model.
+
+### Open Vino IR Optimized Model Output Screenshots
+<img width="423" alt="image" src="https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/956ef6f5-12ca-49ce-ba44-c90e8b1bf8f0">
+![image](https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/793159dd-2525-44e7-b2e5-17205a0000a7)
+
+
+
+
 
 
 
