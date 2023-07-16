@@ -1,4 +1,4 @@
-<img width="423" alt="image" src="https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/12e9dee9-2ce7-4d2d-8f66-4353163c0c0b"># Social Distancing Project Using Computer Vision and Deep Learning
+# Social Distancing Project Using Computer Vision and Deep Learning
 
 ## Implementing Social Distancing using a pre-trained YOLO v8 Model:
 1.	Load the YOLO v8 pre-trained model. There are many pre-trained YOLO v8 models available, so you can choose one that is appropriate for your needs.
