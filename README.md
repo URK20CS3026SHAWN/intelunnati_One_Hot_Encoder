@@ -15,6 +15,7 @@
 
 ### Regular Yolo v8 Output Screenshots
 <img width="423" alt="image" src="https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/16210d51-3025-4e7f-b164-5d56894de04a">
+
 ![image](https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/c39def79-2470-47e9-9b66-b556ee4f07e3)
 
 
@@ -35,6 +36,7 @@
 
 ### Open Vino IR Optimized Model Output Screenshots
 <img width="423" alt="image" src="https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/956ef6f5-12ca-49ce-ba44-c90e8b1bf8f0">
+
 ![image](https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/793159dd-2525-44e7-b2e5-17205a0000a7)
 
 
