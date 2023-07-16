@@ -16,6 +16,7 @@
 ### Regular Yolo v8 Output Screenshots
 <img width="423" alt="image" src="https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/16210d51-3025-4e7f-b164-5d56894de04a">
 <img width="423" alt="image" src="https://github.com/URK20CS3026SHAWN/intelunnati_One_Hot_Encoder/assets/80960850/c39def79-2470-47e9-9b66-b556ee4f07e3">
+My laptop (M1 Series Chip)                                                      My colleague's Intel Laptop
 
 
 
